@@ -1,0 +1,7 @@
+Por favor digite su usuario, contraseña e IP.
+
+Usuario:edwin  
+
+Contraseña:1234
+
+IP:192.168.0.105 

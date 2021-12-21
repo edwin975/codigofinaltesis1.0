@@ -1,0 +1,17 @@
+Ingresar las coordenadas segun el formato:
+
+Latitud1,Longitud1
+Latitud2,Longitud2
+
+Digite las coordenadas abajo:
+                   
+4.12345,-75.67890
+4.12346,-75.52789
+4.17437,-75.13678
+4.45236,-76.56256
+4.23667,-78.53125
+                 
+                 
+                 
+
+
